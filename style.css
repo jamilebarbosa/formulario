@@ -1,7 +1,10 @@
 td {
 
-        border: 1px solid #000000;
+        border: 1px solid;
         
-        border-color: cor;
-     }
+        border-color: green;
+        
+}
+   body{
+        background:purple;
  
